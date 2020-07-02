@@ -6,4 +6,4 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "Let\'s talk about space";
 
-var conversation = ${ Before all + "greeting" + "topic"};
+var conversation = ${"topic"}
